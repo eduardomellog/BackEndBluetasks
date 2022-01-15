@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\EduardoMello\OneDrive - Telecomsul\eclipse\Programação curso\masterdeveloper-master\bluetasks-backend\.metadata\.metadata\.plugins\org.eclipse.jdt.core
+2337168902.index
+3581601090.index

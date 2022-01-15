@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="back-end"/>
+	</list>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="C:\Users\EduardoMello\OneDrive - Telecomsul\Programação curso\masterdeveloper-master\bluetasks-backend"/>
+		<item key="apply_working_sets" value="true"/>
+		<list key="working_sets">
+			<item value="back-end"/>
+		</list>
+	</section>
+</section>
